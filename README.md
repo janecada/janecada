@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adam Janecka
+- 👀 I’m interested in web design & IT in general
+- 🌱 I’m currently learning HTML, CSS & Javascript
+- 💞️ I’m looking to collaborate on various website projects
+- 📫 Reach me by janecka.adam@gmail.com
